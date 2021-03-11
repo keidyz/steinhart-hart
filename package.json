@@ -1,7 +1,7 @@
 {
   "name": "steinhart-hart",
   "version": "1.0.0",
-  "description": "",
+  "description": "steinhart-hart allows easy coefficient and temperature calculations",
   "main": "main/index.js",
   "repository": {
     "type": "git",
@@ -15,5 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "typescript": "^4.2.3"
-  }
+  },
+  "keywords": ["thermistor", "steinharthart", "steinhart", "ntc"]
 }
