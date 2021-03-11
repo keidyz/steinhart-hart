@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/keidyz/steinhart-hart.git"
   },
+  "homepage": "https://github.com/keidyz/steinhart-hart",
   "types": "dist/index.d.ts",
   "scripts": {
 	"prepublish": "tsc"
