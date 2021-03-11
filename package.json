@@ -1,0 +1,19 @@
+{
+  "name": "steinhart-hart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keidyz/steinhart-hart.git"
+  },
+  "types": "dist/index.d.ts",
+  "scripts": {
+	"prepublish": "tsc"
+  },
+  "author": "Keisha Dy Zapra <kzapra@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
+}
