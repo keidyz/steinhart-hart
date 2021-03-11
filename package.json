@@ -1,6 +1,6 @@
 {
   "name": "steinhart-hart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "steinhart-hart allows easy coefficient and temperature calculations",
   "main": "dist/index.js",
   "repository": {
