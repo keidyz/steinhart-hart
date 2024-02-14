@@ -14,7 +14,7 @@ npm i steinhart-hart
 import SteinhartHart from 'steinhart-hart';
 
 // To start, gather three known operating points for your ntc thermistor- you will most
-// likely find these from your thermistor's datasheet
+// likely find these in your thermistor's datasheet
 // celsius = -25 (248.15 in Kelvin) ---- resistance = 87041
 // celsius = 0 (273.15 in Kelvin) ---- resistance = 27326
 // celsius = 25 (298.15 in Kelvin) ---- resistance = 10000
